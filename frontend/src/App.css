@@ -1,0 +1,32 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+form input {
+  margin: 10px 0;
+  padding: 8px;
+  width: 200px;
+}
+
+button {
+  padding: 8px 16px;
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+}
+
+ul li img {
+  border-radius: 50%;
+  margin-right: 10px;
+}
